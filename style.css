@@ -1,0 +1,164 @@
+*
+{
+	margin: 0;
+	padding: o;
+}
+
+header
+{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("back.jpg");
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.main-nav
+{
+	float: right;
+	list-style: none;
+	margin-top: 30px;
+}
+
+.main-nav li
+{
+	display: inline-block;
+}
+
+.main-nav li a
+{
+		color: white;
+		text-decoration: none;
+		padding: 5px 20px;
+		font-family: "Roboto", sherrif;
+		font-size: 20px;
+}
+
+.main-nav li.active a
+{
+	border: 1px solid white;
+}
+
+.main-nav li a:hover
+{
+	border: 1px solid black;
+	background-color:orange;
+}
+
+.logo img
+{
+	width: 120px;
+	height: none;
+	position: center;
+	float:left;
+}
+
+.hero
+{
+	position: absolute;
+	width: 1200px;
+	margin-left: 0px;
+	margin-top: 0 px;
+}
+
+h1
+{
+	color: white;
+	text-transform: uppercase;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 275px;
+}
+
+.button
+{
+	margin-top: 30px;
+	margin-left: 520px;
+}
+
+.btn
+{
+	border: 1px solid white;
+	padding: 10px 30px;
+	color: white;
+	text-decoration: none;
+	margin-right: 5px;
+	font-size: 13px;
+	text-transform: uppercase;
+}
+	
+.btn-one
+{
+	background-color: orange;
+	font-family: "Roboto", serif;
+}
+
+.btn-one:hover
+{
+	background-color: black;
+}
+
+.link
+{
+	float: center;
+	list-style: none;
+	margin-button: 30px;
+}
+
+.link a
+{
+		color: blue;
+		text-decoration: none;
+		padding: 5px 20px;
+		font-family: "Roboto", sherrif;
+		font-size: 20px;
+}
+
+.link .active a
+{
+	border: 1px solid black;
+}
+
+.link a:hover
+{
+	border: 1px solid black;
+}
+
+.ape
+{
+	background-color:black;
+	
+
+	justify-content:center;
+
+}
+.ape ul li{
+	justify-content:center;
+}
+
+.x {
+	background-color:orange;
+}
+
+.x:hover{
+	background-color:white;
+	
+}
+
+
+
+.y{
+	background-color:orange;
+}
+
+.y:hover{
+	background-color:white;
+}
+
+.z{
+	background-color:orange;
+}
+
+.z:hover{
+	background-color:white;
+:
+	
